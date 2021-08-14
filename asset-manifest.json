@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/coinlist/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/coinlist/static/js/main.dc372322.chunk.js",
-    "main.js.map": "/coinlist/static/js/main.dc372322.chunk.js.map",
+    "main.js": "/coinlist/static/js/main.0bef2768.chunk.js",
+    "main.js.map": "/coinlist/static/js/main.0bef2768.chunk.js.map",
     "runtime-main.js": "/coinlist/static/js/runtime-main.4a4bbbe7.js",
     "runtime-main.js.map": "/coinlist/static/js/runtime-main.4a4bbbe7.js.map",
     "static/css/2.0e871ea0.chunk.css": "/coinlist/static/css/2.0e871ea0.chunk.css",
-    "static/js/2.9a691374.chunk.js": "/coinlist/static/js/2.9a691374.chunk.js",
-    "static/js/2.9a691374.chunk.js.map": "/coinlist/static/js/2.9a691374.chunk.js.map",
+    "static/js/2.6615d710.chunk.js": "/coinlist/static/js/2.6615d710.chunk.js",
+    "static/js/2.6615d710.chunk.js.map": "/coinlist/static/js/2.6615d710.chunk.js.map",
     "static/js/3.39385525.chunk.js": "/coinlist/static/js/3.39385525.chunk.js",
     "static/js/3.39385525.chunk.js.map": "/coinlist/static/js/3.39385525.chunk.js.map",
     "index.html": "/coinlist/index.html",
     "static/css/2.0e871ea0.chunk.css.map": "/coinlist/static/css/2.0e871ea0.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/coinlist/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.9a691374.chunk.js.LICENSE.txt": "/coinlist/static/js/2.9a691374.chunk.js.LICENSE.txt"
+    "static/js/2.6615d710.chunk.js.LICENSE.txt": "/coinlist/static/js/2.6615d710.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4a4bbbe7.js",
     "static/css/2.0e871ea0.chunk.css",
-    "static/js/2.9a691374.chunk.js",
+    "static/js/2.6615d710.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.dc372322.chunk.js"
+    "static/js/main.0bef2768.chunk.js"
   ]
 }
